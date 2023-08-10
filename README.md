@@ -1,5 +1,5 @@
 # Book_recommendation
- Suggest the book by comparing the book_id with other users who have read the same books and using those users' highest-rated books as a guide
+ Utilizing data from Goodreads, I developed a Python program for personalized book recommendations. The program analyzes a user's read books, identifies similar readers, and then suggests a book based on the most highly rated and frequently read book by those similar readers. This approach leverages collaborative filtering to provide targeted and relevant book recommendations.
 # Datasets
 I used Goodreads datasets from goodreads.com
 # Link to download goodreads_books.json.gz
